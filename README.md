@@ -8,6 +8,9 @@ Selfhost your Emacs with your favorite configuration.
 
 ![Demo screenshot](https://user-images.githubusercontent.com/291333/64866462-26e25c80-d644-11e9-9ad5-ad9d9808b0cb.png)
 
+# Disclaimer
+I've forked this because I'm working on porting this method to Doom Emacs, setting up a build configuration to get my setup running. The previous project can be found below.
+
 # Motivation
 Since I've became hooked on emacs, I've been looking for ways to have same experience in my browser.
 Sometimes you have to use non-personal computers where it's not possible/undesirable to install desktop Emacs and Dropbox/Syncthing to access your personal data. 
